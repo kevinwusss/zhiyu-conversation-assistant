@@ -1,0 +1,6 @@
+PySide6-Essentials>=6.7,<7
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+psutil>=5.9,<8
+uiautomation>=2.0.18; platform_system == "Windows"
+pywin32>=306; platform_system == "Windows"

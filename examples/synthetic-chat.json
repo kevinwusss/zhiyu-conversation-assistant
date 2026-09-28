@@ -1,0 +1,8 @@
+{
+  "contact": "Demo contact (synthetic)",
+  "messages": [
+    {"sender": "对方", "content": "明天下午讨论项目可以吗？"},
+    {"sender": "我", "content": "可以，我们下午聊。"},
+    {"sender": "对方", "content": "在吗"}
+  ]
+}

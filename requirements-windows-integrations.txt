@@ -1,0 +1,4 @@
+# Optional live WeChat and OCR backends; use Python 3.12 for upstream wheel compatibility.
+-r requirements.txt
+wechatauto-replica==1.2.1; platform_system == "Windows"
+winocr>=0.0.15; platform_system == "Windows"
